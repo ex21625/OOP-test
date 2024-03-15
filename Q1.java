@@ -2,7 +2,7 @@ public class Q1{
 	public static void main(String [] args){
 		
 		System.out.println("Hello test");
-		System.out.println("change");
+		System.out.println("change was made");
 		
 		return;
 	}
